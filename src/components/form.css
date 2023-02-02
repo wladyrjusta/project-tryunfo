@@ -1,0 +1,12 @@
+.form-container {
+  align-content: space-around;
+  align-items: center;
+  border: 1px black solid;
+  border-radius: 12px;
+  display: flex;
+  flex-flow: column wrap;
+  height: 300px;
+  justify-content: space-around;
+  max-height: 500px;
+  max-width: 400px;
+}
